@@ -6,6 +6,7 @@ The page is divided into different divisions with the name of the game on top fo
 ### Page style
 The page is styled in a way that induces the user to play this game and is immersive. The fonts and sizes used are readable and perfectly positioned to match the theme of the page. The button's style is also modified whenever the user hovers over it, to give this site a dynamic experience.   
 ### Page script
-Whenever the but
+When we click the "Roll the dice" button a random number is generated for both the dice, and according to the number the image of the dice is displayed. If the user input is equal to the number on any one of the dice a message is displayed. If the user input is equal to the number on both the dice a different message is displayed.
 
 ## Project summary
+This website is a fun to play dice game that combines the use of simple html, css and javascript to make a fully functional game of chance. And as a matter of fact this is the first website I am creating and I learned a great deal about front-end web development😉. I am motivated to learn more and collaborate with IEEE❤️
